@@ -90,6 +90,6 @@ Search for `blech` in `styles.css` to find the dimensions and colors that are mo
 
 ## See Also
 
-- [`web_app_react/`](../web_app_react/) - React/TypeScript version
+- [`web_app_react/`]((https://github.com/smtilson/hwa-untitled/tree/main/web_app_react)) - React/TypeScript version
 - [Main README](../README.md) - Project overview
 - [Planning Doc](../Planning%20Doc.md) - Roadmap
