@@ -6,7 +6,7 @@
 
 ## Overview
 
-A no-build version of the Hubworld: Aidalon resource tracker. Mirrors the functionality of [`web_app_react`](../web_app_react/) but uses only HTML, CSS, and vanilla JavaScript so it can be served as a fully static site (e.g. GitHub Pages) with no toolchain.
+A no-build version of the Hubworld: Aidalon resource tracker. Mirrors the functionality of [`web_app_react`](https://github.com/smtilson/hwa-untitled/tree/main/web_app_react) but uses only HTML, CSS, and vanilla JavaScript so it can be served as a fully static site (e.g. GitHub Pages) with no toolchain.
 
 ## Features
 
